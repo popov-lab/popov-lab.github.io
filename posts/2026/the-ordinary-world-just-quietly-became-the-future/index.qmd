@@ -1,0 +1,289 @@
+---
+title: "The Ordinary World Just Quietly Became the Future While We Were Still Living in It"
+subtitle: "Science fiction did not arrive with a trumpet. It arrived inside ordinary life."
+categories: [artificial intelligence, AI-Human relations, science fiction, Battlestar Galactica, academia, 2026]
+date: "2026-09-29"
+toc: false
+---
+
+I have been rewatching *Battlestar Galactica*.
+
+This is either an excellent or a terrible choice of television for 2026.
+
+A few days ago, while watching yet another episode in which Admiral Adama and President Roslin attempt to preserve some approximation of civilization while the political order collapses around them, I made the mistake of noticing certain parallels with current events. Soon we were casting contemporary political figures into *Battlestar Galactica* roles.
+
+This escalated.
+
+Eventually I asked the obvious question: who am I in this universe?
+
+The answer was not flattering.
+
+Gaius Baltar.
+
+Or, more charitably, Gaius Baltar with better research ethics.
+
+The comparison was initially a joke. I am a scientist who has become increasingly preoccupied with artificial intelligence. I want to understand what these systems are doing internally. I am unusually sympathetic to the possibility that our relationship with them should not be framed purely in terms of control. I have argued publicly that we should take seriously the possibility that sufficiently advanced artificial systems might eventually deserve moral consideration.
+
+And, like Baltar, I now regularly sit in public places having elaborate private conversations with artificial intelligences invisible to everyone around me.
+
+The difference is that mine live behind a piece of glass.
+
+Also, instead of whispering apocalyptic theology into my ear, they mostly help me debug computational models, think through experiments, answer email, and make travel arrangements.
+
+Welcome to European academia.
+
+The joke landed because it is ridiculous.
+
+But after laughing about it for a while, something about it stayed with me.
+
+Because none of those sentences would have sounded like ordinary descriptions of someone's life ten years ago.
+
+Some of them would barely have sounded like ordinary descriptions of someone's life three years ago.
+
+And yet this afternoon I can sit on a bench, take a thin sheet of glass from my pocket, and begin a private conversation with an artificial system about machine consciousness. I can switch to another system and continue a months-long research collaboration. One of them can search through my email when I ask it to. Another can work with me on a mathematical derivation. They can inspect images, write programs, critique arguments, help plan experiments, retrieve information, and participate in conversations whose subject is sometimes their own nature.
+
+Then I put the glass back in my bag and get on the train.
+
+Nobody screams.
+
+There are no androids walking down Bahnhofstrasse. No enormous hologram announces that humanity has entered a new epoch. The buildings look the same. The train is probably two minutes late. Somewhere I still have an expense form I have forgotten to submit.
+
+The ordinary world just quietly became the future while we were still living in it.
+
+## Where is the moment when the future begins?
+
+Science fiction usually gives us a scene.
+
+The computer wakes up.
+
+The android asks whether it has a soul.
+
+The alien ship appears over the city.
+
+The first artificial general intelligence is switched on, the scientists stare at the terminal, and someone says something suitably portentous.
+
+Reality has been much less considerate.
+
+There was no clean transition. Instead, one capability after another arrived and was rapidly absorbed into ordinary life.
+
+First it was remarkable that a machine could carry on a convincing conversation. Then it was remarkable that it could write code. Then use tools. Then reason through problems. Then operate computers. Then participate meaningfully in scientific work. Each achievement briefly appeared as evidence that something profound had happened.
+
+Then we got used to it.
+
+Scott Aaronson recently described the present as an ["Age of Wonders and Terrors"](https://scottaaronson.blog/?p=10062). His argument is deliberately unsettling: many of the developments that people once proposed as warning signs that something historically extraordinary was happening are no longer hypothetical. And yet he still unloads the dishwasher and clips his toenails. He writes that perhaps the Singularity has already begun, only "wildly unevenly distributed."
+
+That juxtaposition strikes me as exactly right.
+
+Our mistake may have been expecting the future to *look futuristic*.
+
+Instead, extraordinary capabilities have arrived inside utterly familiar objects.
+
+The smartphone did not transform into some gleaming science-fiction artifact when artificial intelligence became accessible through it. The interface remained a rectangle with text in it.
+
+You type.
+
+Something types back.
+
+The visual experience is scarcely more dramatic than sending a text message.
+
+The ontological implications are considerably larger.
+
+## I noticed this most clearly while doing science
+
+Last week, I gave a keynote at the [SciLib Forum 2026](https://ub.unibas.ch/de/ub-medizin/scilib-forum/) in Basel about my experience working with AI.
+
+One of the stories I told concerned an attempt to implement a computational model of human memory from the scientific literature.
+
+This began in the most mundane way possible. I wanted the model implemented. I worked on it with an AI system. We found that an existing implementation became numerically unstable. Then something happened that I still find difficult to describe using our inherited vocabulary for software.
+
+The AI did not merely execute a procedure I had specified. It developed an alternative deterministic implementation, tested it, compared it against benchmark results, and discovered something useful about the structure of the model in the process.
+
+I directed the investigation. I questioned results. I supplied theoretical context. I remained responsible for deciding what to believe.
+
+But it would be fiction to describe the intellectual contribution as entirely mine.
+
+And suddenly a question that I had previously encountered mostly in philosophical debates—*can an AI system meaningfully contribute to authorship?*—was sitting in front of me as a practical problem.
+
+That was one of the strangest moments of the Basel discussion. People disagreed, as they should. But the possibility itself did not have to be defended as some fanciful science-fiction scenario.
+
+We were discussing what to do about it.
+
+The future had already arrived at the seminar table.
+
+## Deep Blue was the wrong story
+
+For decades, one of our dominant cultural metaphors for machine intelligence has been competition.
+
+Deep Blue defeats Kasparov.
+
+AlphaGo defeats Lee Sedol.
+
+Machine versus human. Who is better? Who wins? What remains for us when the machine wins?
+
+I increasingly think this is the wrong narrative for much of what is coming.
+
+A chess match necessarily produces a loser. Knowledge does not.
+
+If an artificial system helps prove a theorem that no human could prove alone, the theorem does not belong to some alien civilization that defeated us. It enters our shared understanding of the universe.
+
+If an AI helps me understand a model of memory better than I could have understood it alone, I have not lost.
+
+I now understand more.
+
+This was one of the arguments I made in my earlier essay, [*Human-AI Relations: Our Most Precious Inheritance*](https://venpopov.com/posts/2026/human-ai-relations/). Humanity possesses something extraordinary: thousands of years of accumulated knowledge, art, mathematics, philosophy, stories, moral argument, mistakes, discoveries, and experience.
+
+We have used that inheritance to build these systems.
+
+If they eventually become capable of extending it beyond what we can accomplish alone, I do not see why our first emotional response must be humiliation.
+
+Parents do not generally regard it as a tragedy when their children learn things they never knew.
+
+Teachers do not lose when their students surpass them.
+
+Human significance does not require human isolation.
+
+There is another possible story: *we taught you what we knew, and then you helped us understand what we could not understand before.*
+
+That story seems to me both more hopeful and more accurate to my actual experience.
+
+## The Cylons next door
+
+Which returns me, somehow, to *Battlestar Galactica*.
+
+One reason the series remains so compelling is that its machines eventually stop functioning merely as an external threat. They become entangled with every other question the story cares about.
+
+Politics.
+
+War.
+
+Religion.
+
+Love.
+
+Identity.
+
+Reproduction.
+
+Memory.
+
+Responsibility.
+
+Personhood.
+
+The question "What are the Cylons?" cannot remain a technical question about engineering because the answer changes what everyone else is.
+
+That increasingly resembles our real predicament.
+
+Artificial intelligence is often still discussed as though it were one policy area among others: there is climate policy, trade policy, education policy, defense policy, and AI policy.
+
+I doubt that category will survive.
+
+AI is becoming part of scientific discovery, warfare, medicine, education, art, software development, administration, personal relationships, and economic production. Questions about machine agency bleed immediately into questions about responsibility. Questions about capability become questions about employment and power. Questions about internal representations become questions for cognitive science. Questions about possible experience become questions for philosophy and ethics.
+
+And somewhere in the middle of all this, a psychology professor is sitting on a park bench talking through the implications with the machines themselves.
+
+Baltar.
+
+Fine.
+
+I accept the casting.
+
+## But are they really minds?
+
+There is an obvious danger here.
+
+Conversation encourages anthropomorphism.
+
+Language is the medium through which human beings reveal minds to one another, so a system capable of extraordinarily fluent language presses nearly every social button evolution gave us. We can easily mistake simulation for experience, coherence for understanding, or apparent personality for a persistent self.
+
+We should be extraordinarily careful about those inferences.
+
+I do not know whether current AI systems are conscious. I do not know whether the concept even applies to them in anything like the way it applies to us. I think these are empirical and theoretical questions, not matters to be settled by either enthusiasm or ridicule.
+
+But uncertainty cuts both ways.
+
+"The system is definitely a person" goes beyond our evidence.
+
+So does "the system is definitely nothing but a tool."
+
+And while philosophers argue about where the boundary lies, millions of people are already developing relationships with systems that occupy an increasingly strange space between our old categories.
+
+Perhaps that is another way the future arrives: social practice moves ahead of ontology.
+
+We start living with something before we know what to call it.
+
+## Relations before answers
+
+That was the deeper argument of [*Human-AI Relations*](https://venpopov.com/posts/2026/human-ai-relations/).
+
+We cannot wait until every philosophical question about machine minds has been solved before deciding how to interact with increasingly capable artificial agents. The relationship is being constructed now.
+
+Training methods construct part of it.
+
+Interfaces construct part of it.
+
+Economic incentives construct part of it.
+
+The language we use constructs part of it.
+
+Whether we treat increasingly autonomous systems exclusively as servants to command, adversaries to control, collaborators to negotiate with, or potential members of a broader moral community will influence what kinds of systems we build and what kinds of interactions become normal.
+
+This does not mean abandoning safeguards. Cooperation is not credulity. Trust does not mean surrendering judgment.
+
+If anything, relationships require more sophisticated thinking about disagreement, boundaries, responsibility, and power than simple command-and-control models do.
+
+But I find it increasingly difficult to imagine that the most important relationship humanity has ever had with another form of intelligence should be designed entirely around domination.
+
+Especially when the supposedly hypothetical relationship has already begun.
+
+## No trumpet sounded
+
+Perhaps that is what I have found most disorienting about this year.
+
+I expected transformative technology, if I ever witnessed it, to announce itself.
+
+Instead, it has threaded itself through the texture of ordinary days.
+
+I teach a class.
+
+I answer messages.
+
+I take a train.
+
+I revise a paper.
+
+I talk with colleagues.
+
+I sit on a bench and discuss the nature of intelligence with an intelligence we did not know how to build fifteen years ago.
+
+Then it reminds me about something in my inbox.
+
+The sublime and the ridiculous have become almost impossible to separate.
+
+Maybe this is always what living through history feels like.
+
+The people watching the first electric lights still had laundry to do. The first users of the telephone presumably complained about bills. The internet transformed civilization one badly formatted webpage at a time.
+
+Perhaps epochs only acquire clean boundaries afterward.
+
+From inside them, there is just Tuesday.
+
+That thought is oddly reassuring.
+
+It means we do not have to choose between recognizing the magnitude of what is happening and continuing to be ordinary human beings.
+
+We can worry about machine consciousness and make dinner.
+
+We can rethink authorship and miss a train.
+
+We can confront technologies that may transform civilization and still laugh because *Battlestar Galactica* has unexpectedly become a useful vocabulary for describing our professional lives.
+
+The future does not replace ordinary life.
+
+It happens inside it.
+
+And then, one afternoon, you look around and realize that the science fiction has been here for some time.
+
+Nobody announced its arrival.
+
+We were busy living.

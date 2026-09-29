@@ -3,6 +3,8 @@ title: "The Ordinary World Just Quietly Became the Future While We Were Still Li
 subtitle: "Science fiction did not arrive with a trumpet. It arrived inside ordinary life."
 categories: [artificial intelligence, AI-Human relations, science fiction, Battlestar Galactica, academia, 2026]
 date: "2026-09-29"
+image: "https://media.battlestarwiki.org/w/thumb.php?f=Battlestar_Galactica_Last_Supper.jpg&width=1200"
+image-alt: "Battlestar Galactica Season 4 promotional image styled after The Last Supper, with Number Six standing in red at the center of a long table surrounded by the ensemble cast."
 toc: false
 ---
 
